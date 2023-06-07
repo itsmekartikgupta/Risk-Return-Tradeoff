@@ -2,7 +2,7 @@
 This repository contains a Python script for analyzing stock returns and comparing the volatility of individual stocks with the NASDAQ-100 index. The script retrieves historical stock price data using the Yahoo Finance API, calculates daily returns and volatility, and visualizes the relationship between annual returns and volatility.
 
 
-Requirements:-
+#Requirements:-
 Python 3.x
 pandas
 yfinance
